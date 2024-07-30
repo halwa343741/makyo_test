@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/makyo_test/static/css/main.b8e1f446.css",
-    "main.js": "/makyo_test/static/js/main.9445a648.js",
+    "main.js": "/makyo_test/static/js/main.6293553e.js",
     "static/js/453.3028c062.chunk.js": "/makyo_test/static/js/453.3028c062.chunk.js",
     "index.html": "/makyo_test/index.html",
     "main.b8e1f446.css.map": "/makyo_test/static/css/main.b8e1f446.css.map",
-    "main.9445a648.js.map": "/makyo_test/static/js/main.9445a648.js.map",
+    "main.6293553e.js.map": "/makyo_test/static/js/main.6293553e.js.map",
     "453.3028c062.chunk.js.map": "/makyo_test/static/js/453.3028c062.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8e1f446.css",
-    "static/js/main.9445a648.js"
+    "static/js/main.6293553e.js"
   ]
 }
