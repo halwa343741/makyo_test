@@ -3,7 +3,7 @@ import {Meta, StoryFn} from "@storybook/react";
 import DropdownSearch, { data } from "./DropdownSearch";
 
 export default {
-  title: "Components/Select Dropdown Field",
+  title: "Makyo Test - Tan Ory Jaka Perdana",
   component: DropdownSearch,
 } as Meta;
 
