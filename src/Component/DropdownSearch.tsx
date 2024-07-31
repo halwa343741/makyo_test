@@ -110,6 +110,13 @@ const DropdownList: React.FC<{
       )
     );
   }, [search]);
+
+  useEffect(() => {
+    if (!withSearch) {
+      setSearch((prev) => "");
+    }
+  }, [withSearch]);
+
   function isSelected(item: data): boolean {
     return selected.some((s) => s.key === item.key);
   }
@@ -129,7 +136,7 @@ const DropdownList: React.FC<{
   }
   return (
     <div
-      className={`absolute w-full top-[calc(100%+7px)] border border-gray-200 left-0 shadow-md z-[1000] p-2 bg-white`}
+      className={`absolute w-full top-[calc(100%+7px)] border border-gray-200 left-0 shadow-md z-[1001] p-2 bg-white`}
       onClick={(e) => e.stopPropagation()}
     >
       {withSearch && (
