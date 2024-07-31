@@ -28,7 +28,7 @@ Link to the Storybook hosted on GitHub Pages: <a href="https://halwa343741.githu
    git clone https://github.com/halwa343741/makyo_test.git
    cd makyo_test
 
-2. **Clone the repository** :
+2. **Install dependencies** :
     ```bash
     npm install
 
