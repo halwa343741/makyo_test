@@ -11,7 +11,7 @@ This project is a React application designed as a technical test. It uses Storyb
 
 ## Demo
 
-Link to the Storybook hosted on GitHub Pages: [https://halwa343741.github.io/makyo_test/?path=/story/makyo-test-tan-ory-jaka-perdana--dropdown-search-field](https://halwa343741.github.io/makyo_test/?path=/story/makyo-test-tan-ory-jaka-perdana--dropdown-search-field)
+Link to the Storybook hosted on GitHub Pages: [Demo](https://halwa343741.github.io/makyo_test/?path=/story/makyo-test-tan-ory-jaka-perdana--dropdown-search-field)
 
 ## Features
 
